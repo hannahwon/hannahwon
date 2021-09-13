@@ -4,8 +4,7 @@ I want to be good at a developer in IT filed.
 
 I enjoy playing jiu-jitsu, walking.
 
-🐱‍🐉🐱‍🐉👍 ## Skills
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+🐱‍🐉🐱‍🐉👍 ### Skills
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
