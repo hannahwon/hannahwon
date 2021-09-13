@@ -6,7 +6,7 @@ I enjoy playing jiu-jitsu, walking.
 
 🐱‍🐉🐱‍🐉👍 ### Skills
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="file:///C:/Users/User/Downloads/java.svg?style=flat-square&logo=Java&logoColor=#007396"/>
+<img src="https://simpleicons.org/?q=java?style=flat-square&logo=Java&logoColor=#007396"/>
 
 <!--
 **hannahwon/hannahwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
