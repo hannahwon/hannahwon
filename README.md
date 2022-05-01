@@ -1,8 +1,9 @@
 ### Hi there 👋
 I'm mobile app or web developer using window, Android and iOS
 I want to be a great developer in IT filed.
+I'm working in the GIS company.
 
-I enjoy playing jiu-jitsu, walking.
+I enjoy playing jiu-jitsu.
 
 🐱‍🐉🐱‍🐉👍 ### Skills ###
 
