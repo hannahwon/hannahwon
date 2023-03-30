@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm mobile app or web developer using window, Android and iOS
+I'm a web developer using window
 I want to be a great developer in IT filed.
 I'm working in the GIS company.
 
@@ -7,17 +7,5 @@ I enjoy playing jiu-jitsu.
 
 🐱‍🐉🐱‍🐉👍 ### Skills ###
 
-<!--
-**hannahwon/hannahwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Empty
+**********
